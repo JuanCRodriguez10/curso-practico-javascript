@@ -48,7 +48,7 @@ function areaCirculo(radio){
 
 console.groupEnd();
 
-//Funcion boton de los cuadrados, interaccion con HTML
+//Funcion boton del cuadrado, interaccion con HTML
 function calcularPerimetroCuadrado(){
     const input = document.getElementById("InputCuadrado"); // getElemento para llamar el id imput creado
     const value = input.value; // transformar el input a valor con la variable value
